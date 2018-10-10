@@ -1,24 +1,16 @@
-# HELL THE GIT #
+# HAPPY JINSOL PAGE #
 
-You can use the [editor on GitHub](https://github.com/bosu-301/test_githubpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The last **hope** of **twitch**
+* [`KING_GOD_EMPEROR_CHOONGMOOGONG_MALCHEZHALLE`**T.T.B.R**](https://www.twitch.tv/2chamcham2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## WTF?
 
-* [`HISTORY`](https://github.com/bosu-301/test_githubpage/edit/master/README.md)
-* [`ISSUE`](https://github.com/bosu-301/test_githubpage/edit/master/README.md)
-* somewhat
-
-
-
-임무 | 이름 | 연락처 | 주요 업무
+THIS | IS | END OF | HUMANAGE
 --- | ------------- | ------- | ------
-진행자 | 김영웅 | kyy980708@gmail.com | 
-서기 | 박서연 | nea21008@gmail.com | 
-웹페이지 총괄 | 김상준 | tkwk327@gmail.com | 
-git관리 총괄 | 우경완 | kwkoo990716@gmail.com | 
-디자인 | 이진솔 | js3891129@gmail.com | 활동보고서 작성
+ |  |  | 
 
 ![Image](https://github.com/bosu-301/test_githubpage/blob/master/hellthegit.PNG?raw=true)
+
 **Bold** _Italic_ `Code`
 
 **Bold** and _Italic_ and `Code` text
