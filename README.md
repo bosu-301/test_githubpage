@@ -11,6 +11,9 @@ THIS | IS | END OF | HUMANAGE
 
 ![Image](https://github.com/bosu-301/test_githubpage/blob/master/human.PNG?raw=true)
 
+
+[go page]( https://bosu-301.github.io/test_githubpage/)
+
 **Bold** _Italic_ `Code`
 
 **Bold** and _Italic_ and `Code` text
