@@ -17,6 +17,8 @@ a b c
 git관리 총괄 | 우경완 | kwkoo990716@gmail.com | 
 디자인 | 이진솔 | js3891129@gmail.com | 활동보고서 작성
 
+[Image](test_githubpage/다운로드.png)
+
 
 **Bold** and _Italic_ and `Code` text
 
