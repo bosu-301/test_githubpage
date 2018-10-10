@@ -9,6 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 a b c
  * wowwow
 
+임무 | 이름 | 연락처 | 주요 업무
+--- | ------------- | ------- | ------
+진행자 | 김영웅 | kyy980708@gmail.com | 
+서기 | 박서연 | nea21008@gmail.com | 
+웹페이지 총괄 | 김상준 | tkwk327@gmail.com | 
+git관리 총괄 | 우경완 | kwkoo990716@gmail.com | 
+디자인 | 이진솔 | js3891129@gmail.com | 활동보고서 작성
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
