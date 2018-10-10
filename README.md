@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/bosu-301/test_githubpage/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* [`HISTORY`]
-* [`ISSUE`]
+* [`HISTORY`](https://github.com/bosu-301/test_githubpage/edit/master/README.md)
+* [`ISSUE`](https://github.com/bosu-301/test_githubpage/edit/master/README.md)
 * somewhat
 
 
