@@ -9,7 +9,7 @@ THIS | IS | END OF | HUMANAGE
 --- | ------------- | ------- | ------
  |  |  | 
 
-![Image](https://github.com/bosu-301/test_githubpage/blob/master/hellthegit.PNG?raw=true)
+![Image](https://github.com/bosu-301/test_githubpage/blob/master/human.PNG?raw=true)
 
 **Bold** _Italic_ `Code`
 
