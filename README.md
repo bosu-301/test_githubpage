@@ -17,7 +17,7 @@ a b c
 git관리 총괄 | 우경완 | kwkoo990716@gmail.com | 
 디자인 | 이진솔 | js3891129@gmail.com | 활동보고서 작성
 
-![Image](bosu-301/test_githubpage/다운로드.png)
+![Image](https://github.com/bosu-301/test_githubpage/blob/master/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png?raw=true)
 
 
 **Bold** and _Italic_ and `Code` text
