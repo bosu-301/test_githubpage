@@ -9,7 +9,7 @@ THIS | IS | END OF | HUMANAGE
 --- | ------------- | ------- | ------
  |  |  | 
 
-![Image](https://github.com/bosu-301/test_githubpage/blob/master/human.PNG?raw=true)
+[![Image](https://github.com/bosu-301/test_githubpage/blob/master/human.PNG?raw=true)](https://bosu-301.github.io/test_githubpage/)
 
 
 [go page]( https://bosu-301.github.io/test_githubpage/)
