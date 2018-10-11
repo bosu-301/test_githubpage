@@ -1,6 +1,6 @@
 # HAPPY JINSOL PAGE #
 
-The last **hope** of **twitch**
+The last **hope** of **A**
 * [`KING_GOD_EMPEROR_CHOONGMOOGONG_MALCHEZHALLE`**T.T.B.R**](https://www.twitch.tv/2chamcham2)
 
 ## WTF?
